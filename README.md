@@ -1,1 +1,1 @@
-# vanilla-components
+# Components library (HTML, CSS, Vanilla JS)
